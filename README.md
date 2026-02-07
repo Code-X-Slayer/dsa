@@ -25,11 +25,32 @@ This repo will **grow gradually** as I continue learning and practicing.
 
 ### 📂 11-bitwise
 
-1. **Add Binary**
-   🔗 [https://leetcode.com/problems/add-binary/description/](https://leetcode.com/problems/add-binary/description/)
+This folder contains **bit manipulation problems**, focusing on **binary operations, XOR, counting bits, and binary representation challenges**.
 
-> This is my **first completed file** in the repository.
-> More problems and topics will be added as I move forward.
+| Problem                                           | File                             | LeetCode Link                                                                            |
+| ------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------- |
+| Add Binary                                        | `AddBinary.java`                 | [Link](https://leetcode.com/problems/add-binary/)                                        |
+| Single Number                                     | `SingleNumber.java`              | [Link](https://leetcode.com/problems/single-number/)                                     |
+| Reverse Bits                                      | `ReverseBits.java`               | [Link](https://leetcode.com/problems/reverse-bits/)                                      |
+| Number of 1 Bits                                  | `NumberOfOneBits.java`           | [Link](https://leetcode.com/problems/number-of-1-bits/)                                  |
+| Counting Bits                                     | `CountingBits.java`              | [Link](https://leetcode.com/problems/counting-bits/)                                     |
+| Binary Watch                                      | `BinaryWatch.java`               | [Link](https://leetcode.com/problems/binary-watch/)                                      |
+| Hamming Distance                                  | `HammingDistance.java`           | [Link](https://leetcode.com/problems/hamming-distance/)                                  |
+| Number Complement                                 | `NumberCompliment.java`          | [Link](https://leetcode.com/problems/number-complement/)                                 |
+| Set Mismatch                                      | `SetMismatch.java`               | [Link](https://leetcode.com/problems/set-mismatch/)                                      |
+| Binary Number with Alternating Bits               | `AlternatingBits.java`           | [Link](https://leetcode.com/problems/binary-number-with-alternating-bits/)               |
+| Prime Number of Set Bits in Binary Representation | `CountPrimeSetBits.java`         | [Link](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) |
+| Binary Gap                                        | `BinaryGap.java`                 | [Link](https://leetcode.com/problems/binary-gap/)                                        |
+| Number of Steps to Reduce a Number to Zero        | `NumberOfSteps.java`             | [Link](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)        |
+| Sort Integers by The Number of 1 Bits             | `SortByBits.java`                | [Link](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)             |
+| XOR Operation in an Array                         | `XorOperation.java`              | [Link](https://leetcode.com/problems/xor-operation-in-an-array/)                         |
+| Count the Number of Consistent Strings            | `CountConsistentSubstrings.java` | [Link](https://leetcode.com/problems/count-the-number-of-consistent-strings/)            |
+| Decode XORed Array                                | `DecodeXOR.java`                 | [Link](https://leetcode.com/problems/decode-xored-array/)                                |
+| Sum of All Subset XOR Totals                      | `SubsetXORSum.java`              | [Link](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)                      |
+| Longest Nice Substring                            | `LongestNiceSubstring.java`      | [Link](https://leetcode.com/problems/longest-nice-substring/)                            |
+
+
+> All problems are solved using **Java**, with focus on **clean, efficient logic and bitwise operations**.
 
 ---
 
@@ -57,6 +78,7 @@ This repo will **grow gradually** as I continue learning and practicing.
   * Strings
   * Math
   * And more…
+
 * This README will be **updated regularly** with:
 
   * New topics
